@@ -10,7 +10,6 @@ A structured preparation repository for GSoC 2026, covering all essential Machin
 
 <pre>
 GSOC-PREP-2026
-├── .venv/                        ← Local virtual environment (not part of learning material)
 ├── Aeon/                         ← Time-series ML & forecasting practice
 ├── DeepLearning/                 ← Foundational Deep Learning practice
 ├── Diffusion/                    ← Diffusion models (DDPM/DDIM, schedulers)
@@ -26,10 +25,6 @@ GSOC-PREP-2026
 </pre>
 
 <hr/>
-
-<section>
-  <h3>🟦 .venv/</h3>
-  <p>Local virtual environment for dependencies. Not part of learning material.</p>
 
   <h3>🟦 Aeon/</h3>
   <p><strong>Time-series ML & forecasting practice.</strong></p>
