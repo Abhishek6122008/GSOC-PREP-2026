@@ -6,8 +6,6 @@ A structured preparation repository for GSoC 2026, covering all essential Machin
 
 <hr/>
 
-<hr/>
-
 <h2>🎯 Purpose of This Repository</h2>
 <ul>
   <li>Build strong fundamentals in ML, DL, Bayesian modeling, and scientific ML</li>
